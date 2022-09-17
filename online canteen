@@ -1,0 +1,75 @@
+<html>
+<head>
+<style>
+
+x-sizing: border-box;
+}
+.imageColumn {
+   float: left;
+   width: 25%;
+   padding: 10px;
+}
+h1{
+   text-align: center;
+}
+img
+{
+height:350PX
+width:300px;
+border-radius:20px;
+}
+</style>
+</head>
+<body>
+
+
+<body background="C:\Users\User\Desktop\bg2.jfif">
+
+<b><h1 align="center"><font color="red" style="background-color:black">THE HOT SPOT</b></center></h1>
+
+ <style>
+      marquee{
+      font-size: 16px;
+      font-weight: 800;
+      color: white;
+      font-family: sans-serif;
+      }
+    </style>
+  </head>
+  <body>
+    <marquee> <i> EAT GOOD FEEL GOOD</marquee>
+  
+<<b><h1 align="center"><font color="white" >TASTE BY CATEGORIES</b></center></h1>
+<b><h3> <bottom> <a href="a1.html"> Snacks </center> </bottom> </b><h3> 
+ <center> <img src="C:\Users\User\Downloads\snacks.jpg" height="350" width="350"> </center> 
+</a>
+
+<center> <bottom> <b><h3>  <a href="a2.html"> Hot Drinks </center> </bottom> </b></h3> 
+<center> <img src="C:\Users\User\Desktop\hot drinks.jpg" height="350" width="350"> </center>
+</a>
+</div>
+
+<center> <bottom> <b><h3> <a href="a3.html"> Cold Drinks </center> </bottom> </b></h3> 
+<center> <img src="C:\Users\User\Desktop\cool drinks.png" height="350" width="350"> </center> 
+</div>
+ </a>
+
+<center> <bottom> <b><h3> <a href="a4.html"> Milkshakes </center> </bottom> </b></h3> 
+<center> <img src="C:\Users\User\Desktop\milkshake.jpg" height="350" width="350"> </center> 
+</div>
+</a>
+
+<center> <bottom> <b><h3> <a href="a5.html"> Fizzy Drinks </center> </bottom> </b></h3> 
+<center> <img src="C:\Users\User\Desktop\fizzy drink.jpg" height="350" width="350"> </center> 
+</a>
+
+<center> <bottom> <b> <h3>  <a href="a6.html"> Chocolates </center> </bottom> </b></h3> 
+<center> <img src="C:\Users\User\Desktop\chocolates.jpg" height="350" width="350"> </center> 
+</a>
+<center> <bottom> <b><h3> <a href="a7.html"> Biscuits And Cookies </center> </bottom> </b></h3> 
+<center> <img src="C:\Users\User\Desktop\biscuits.jpg" height="350" width="350"> </center> 
+</a>
+
+<center> <bottom> <b><h3> <a href="a8.html"> Packed Foods <c/enter> </bottom> </b></h3> 
+<center> <img src="C:\Users\User\Desktop\packed foods.jpg" height="350" width="350"> </center> 
+<a>
